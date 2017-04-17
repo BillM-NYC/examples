@@ -1,0 +1,1 @@
+to_date(a.UPDATE_DATE,'YY.MM.DD')
